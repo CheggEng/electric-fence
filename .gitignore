@@ -1,0 +1,7 @@
+.*project
+.README*
+.*settings*
+*.o
+*.a
+eftest
+tstheap
