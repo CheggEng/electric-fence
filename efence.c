@@ -190,7 +190,7 @@ static int		noAllocationListProtection = 0;
  */
 static size_t		bytesPerPage = 0;
 
- /*
+/*
  * mutex to enable multithreaded operation
  */
 static pthread_mutex_t mutex ;
